@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317010478390",
+    "firebase_url": "https://baitapthuchanh-7cb3f-default-rtdb.firebaseio.com",
+    "project_id": "baitapthuchanh-7cb3f",
+    "storage_bucket": "baitapthuchanh-7cb3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317010478390:android:5ae76b2ab3bd0333761f97",
+        "android_client_info": {
+          "package_name": "com.example.vovannhat_baitapthuchanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317010478390-mmoh0ug6r2g4k064v756lgm7p8fuoejl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vovannhat_baitapthuchanh",
+            "certificate_hash": "6545ae8bfe69bb99644755051557f346ec9e2698"
+          }
+        },
+        {
+          "client_id": "317010478390-rs1urp27du66l9c5qbs5b2teqr8iik6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XDBh6bU3p6FAHb-8P-sFmNPONsPlsSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317010478390-rs1urp27du66l9c5qbs5b2teqr8iik6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
